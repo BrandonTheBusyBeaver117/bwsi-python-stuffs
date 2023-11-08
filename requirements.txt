@@ -1,0 +1,2 @@
+bwsi-grader==1.12.0
+numpy==1.26.1
